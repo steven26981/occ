@@ -710,3 +710,11 @@ DOMAIN-SUFFIX,zhongcaisuo.cn
 DOMAIN-SUFFIX,zhongcaisuo.com
 DOMAIN-SUFFIX,zhongcaisuo.com.cn
 
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,ithba.com.cn
+DOMAIN-KEYWORD,10jqka   
+DOMAIN-KEYWORD,ithba      
+PROCESS-NAME,hexinflush.exe
+IP-CIDR,61.152.107.0/24
+IP-CIDR,60.191.124.0/24
+
